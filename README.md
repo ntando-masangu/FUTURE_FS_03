@@ -25,5 +25,6 @@ A real local business website built for a sneaker & tech reseller online shop in
 <img width="1366" height="679" alt="chrome_4NK8RAGuuJ" src="https://github.com/user-attachments/assets/27d91c84-531d-4e16-9b36-49c9a5ba77db" />
 <img width="1366" height="679" alt="chrome_Z4931pnDQl" src="https://github.com/user-attachments/assets/db7620f7-01da-4123-86f6-edc0be7710c7" />
 <img width="1366" height="679" alt="chrome_I6GoMdb3TM" src="https://github.com/user-attachments/assets/759aeb15-29f9-4572-a604-dd0cce573c12" />
-
+- Pitch Documentation: https://docs.google.com/document/d/1ybjeRKf6kEAWqLE_aDtObEPgL69q0sznK4lfcp1qCkg/edit?usp=sharing
+  
 Built as part of the "Build, Pitch & Monetize a Real Local Business Website" task in Future Interns.
